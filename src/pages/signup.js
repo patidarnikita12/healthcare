@@ -12,7 +12,7 @@ function SignUp(){
                 Email <input type ="email" placeholder="Enter your Email"/><br/>
                 Mob.No.<input type ="text" placeholder="Enter your Contact"/><br/> 
                 Password<input type="password" placeholder="enter atleast 8 character"/> <br/>
-
+                Confirm Password<input type = "password" placeholder='reenter password'/>
                </form>
             </div>
         </div>
